@@ -1,2 +1,2 @@
-# -HA-Yer-stasyonu
+# IHA-Yer-stasyonu
 Yer İstasyonu arayüzü
